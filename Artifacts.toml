@@ -1,0 +1,9 @@
+[[coordgenlibs]]
+arch = "x86_64"
+git-tree-sha1 = "593823fa386ca4deea0b2fc62d8d43b2ba93b8d6"
+os = "macos"
+os_version = "14.0.0"
+
+    [[coordgenlibs.download]]
+    sha256 = "2754f5dff3ee2ee9775a34b56a23010de29d93d00b6fe932e244e6fd97f69806"
+    url = "https://github.com/mojaie/coordgenlibs_jll.jl/releases/download/coordgenlibs-v3.0.1+0/coordgenlibs.v3.0.1.x86_64-apple-darwin14.tar.gz"
