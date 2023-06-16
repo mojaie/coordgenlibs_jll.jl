@@ -1,6 +1,6 @@
 name = "coordgenlibs_jll"
 uuid = "f6050b86-aaaf-512f-8549-0afff1b4d57f"
-version = "3.0.1+0"
+version = "3.0.2+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
